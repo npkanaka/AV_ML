@@ -1,4 +1,4 @@
-#Purchase amount is predicted.
+# Purchase amount is predicted.
 
 Retail is another industry which extensively uses analytics to optimize business processes. This dataset comprises of sales transactions captured at a retail. store. 
 
