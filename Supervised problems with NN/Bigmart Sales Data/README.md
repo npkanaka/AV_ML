@@ -4,4 +4,4 @@ As the name suggests, this data comprises of transaction records of a sales stor
 
 The data has 8523 rows of 12 variables.
 
-#Sales of a store is predicted.
+##Sales of a store is predicted.
