@@ -1,0 +1,6 @@
+stdio.h
+string.h
+dos.h
+stdlib.h
+conio.h
+graphics.h
